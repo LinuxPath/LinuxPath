@@ -5,7 +5,7 @@
   <p align="center">
     <samp>
       <b>
-        I'm X3ric alt account
+       I’m X3ric’s alt.
       <br>
         I'd like to follow back who is following x3ric ;).
       </b>
