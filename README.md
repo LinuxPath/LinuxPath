@@ -1,13 +1,12 @@
-<!-- x3ric's alt GitHub Profile -->
+<!-- GitHub Profile -->
 <div align="justify">
   <!-- Profile -->
   <p align="left"><strong><samp>「</samp></strong></p>
   <p align="center">
     <samp>
       <b>
-        I’m <a href="https://github.com/x3ric">x3ric</a>’s alt.
         <br>
-        I’d like to follow back those who follow <a href="https://github.com/x3ric">x3ric</a> ;).
+        I’d like to follow back those who follows <a href="https://github.com/x3ric">x3ric</a> ;)
       </b>
       <br>
       <img 
